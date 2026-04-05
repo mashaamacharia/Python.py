@@ -5,3 +5,8 @@ class BirthdayBoy:
 
     def vickie(self):
         print(f"Happy birthday {self.name}! You are turning {self.age}!")
+
+person=BirthdayBoy("Mashaa","24")
+person.vickie()
+
+
